@@ -47,7 +47,7 @@ My_EBSD_Project/
 │   ├── MAPClean/       # Stage 1 Outputs (MAPClean)
 │   ├── GrainClean/     # Stage 2 Outputs (GRaMC)
 │   └── Textures/       # Stage 3 Outputs (GRaFT)
-├── MAPClean.m          # (Stage 1) Pixrl-level mapping
+├── MAPClean.m          # (Stage 1) Pixel-level mapping
 ├── GRaMC.m             # (Stage 2) Grain Reconstruction
 └── GRaFT.m             # (Stage 3) This Script
 ```
