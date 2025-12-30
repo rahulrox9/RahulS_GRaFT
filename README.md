@@ -8,7 +8,7 @@ GRaFT transforms reconstructed microstructures into publication-ready quantitati
 
 ## Key Features
 * **Texture Quantification:** Automated calculation of **J-index** (Texture sharpness) and **M-index** (Misorientation density) to quantify crystallographic preferred orientation (CPO) intensity.
-* **Fabric Analysis:** Computes **Woodcock/Vollmer indices (BA, BC)** to classify fabric shapes (clusters vs. girdles) directly from orientation tensors.
+* **Fabric Analysis:** Computes **Vollmer indices (BA, BC)** to classify fabric shapes (clusters vs. girdles) directly from orientation tensors.
 * **Morphometrics:** Generates comprehensive reports on grain shape, including **Aspect Ratio maps**, **Flinn plots**, and **Shape Preferred Orientation (SPO)** rose diagrams.
 * **Comparative Statistics:** Automatically compiles dataset-wide statistics into a master CSV and generates **Kernel Density Estimation (KDE)** plots for comparing grain size distributions across multiple samples.
 * **Visualisation Suite:** Produces consistent, publication-quality plots (Pole Figures, IPFs) for every sample in the batch.
