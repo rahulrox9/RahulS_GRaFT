@@ -7,7 +7,7 @@
 %
 %   Key Capabilities:
 %     1. Texture Strength: J-index (Texture sharpness) & M-index.
-%     2. Fabric Shape: Woodcock/Vollmer indices (BA, BC) for shape fabrics.
+%     2. Fabric Shape: Vollmer indices (BA, BC) for shape fabrics.
 %     3. Morphometrics: Aspect Ratio maps, Flinn Plots, and CSDs.
 %     4. Comparative Analysis: Dataset-wide Kernel Density Estimation (KDE).
 %
