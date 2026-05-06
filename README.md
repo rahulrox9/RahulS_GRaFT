@@ -192,12 +192,6 @@ Grain-resolved fabric and texture analysis.
 
 ---
 
-# Citation
-
-If you use this workflow, please cite the associated publication once available.
-
----
-
 # License
 
 This project is licensed under the GPL v3 License.
