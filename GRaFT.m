@@ -77,7 +77,7 @@ params.fontName            = 'Arial';
 params.axisFontSize        = 11;
 params.vesicleMinAreaPx    = 100;
 params.contactDilateSize   = 3;
-params.minGrainsForODF     = 25;
+params.minGrainsForODF     = 100;
 params.saveIntermediateMAT = true;
 
 %% ================= LOOP OVER SAMPLE-PHASE FILES =================
